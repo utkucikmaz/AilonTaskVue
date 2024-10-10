@@ -18,11 +18,11 @@ Here are some examples of what the app looks like:
 
 ### Example 1: Recipe Overview
 
-![Recipe Overview](@/assets/1.png)
+![Recipe Overview](./src/assets/1.png)
 
 ### Example 2: Recipe Details
 
-![Recipe Details](@/assets/2.png)
+![Recipe Details](./src/assets/2.png)
 
 ## Usage
 
