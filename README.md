@@ -10,7 +10,7 @@ Welcome to the **Essen App**! This application helps users find recipes based on
 
 ## Demo
 
-You can view a live demo of the application at: [allon-task-vue.vercel.app](https://allon-task-vue.vercel.app)
+You can view a live demo of the application at: [ailon-task-vue.vercel.app](https://ailon-task-vue.vercel.app)
 
 ## Screenshots
 
